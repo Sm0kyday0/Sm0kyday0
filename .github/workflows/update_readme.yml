@@ -12,14 +12,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Generate GitHub Stats SVG
+        run: |
+          curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=Sm0kyday0&show_icons=true&theme=radical"
+
       - name: Generate Top Langs SVG
         run: |
-          curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Sm0kyday0&layout=compact&theme=radical&token=${{ secrets.GH_STATS_TOKEN }}"
+          curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Sm0kyday0&layout=compact&theme=radical"
 
       - name: Commit SVG
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add top-langs.svg
-          git commit -m "Update top-langs" || echo "No changes to commit"
+          git add github-stats.svg top-langs.svg
+          git commit -m "Update GitHub Stats SVGs" || echo "No changes to commit"
           git push
