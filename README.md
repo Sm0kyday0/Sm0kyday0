@@ -4,10 +4,8 @@
 --- 無能dev
 
 ## ​ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sm0kyday0&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sm0kyday0&layout=compact&theme=radical)
-
----
+![GitHub Stats](github-stats.svg)
+![Top Langs](top-langs.svg)
 
 ## ​ Tech Stac
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
