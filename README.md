@@ -3,9 +3,6 @@
 ## ​ About 
 --- 無能dev
 
-## ​ GitHub Stats
-![GitHub Stats](github-stats.svg)
-![Top Langs](top-langs.svg)
 
 ## ​ Tech Stac
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
