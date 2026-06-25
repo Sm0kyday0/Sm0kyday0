@@ -24,7 +24,7 @@ jobs:
       - name: Generate Graph
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          USERNAME: YOUR_USERNAME
+          USERNAME: Sm0kyday0
         run: python generate_graph.py
 
       - name: Commit
