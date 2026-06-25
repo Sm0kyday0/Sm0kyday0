@@ -11,19 +11,18 @@ repos = []
 page = 1
 
 while True:
-r = requests.get(
-f"https://api.github.com/user/repos?per_page=100&page={page}",
-headers=headers
-)
+    r = requests.get(
+        f"https://api.github.com/user/repos?per_page=100&page={page}",
+        headers=headers
+    )
 
-```
-data = r.json()
+    data = r.json()
 
-if not data:
-    break
+    if not data:
+        break
 
-repos.extend(data)
-page += 1
+    repos.extend(data)
+    page += 1
 ```
 
 totals = {}
