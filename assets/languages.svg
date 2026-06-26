@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="288">
 <rect x="20" y="20" width="860" height="14" rx="7" ry="7" fill="#21262d"/>
-<rect x="20" y="20" width="419.7339987432916" height="14" fill="#b07219"/>
-<rect x="439.7339987432916" y="20" width="405.8258887606433" height="14" fill="#A97BFF"/>
-<rect x="845.5598875039349" y="20" width="29.649991309994963" height="14" fill="#8b949e"/>
-<rect x="875.2098788139299" y="20" width="2.403335341419967" height="14" fill="#3572A5"/>
-<rect x="877.6132141553499" y="20" width="1.665837503793015" height="14" fill="#e34c26"/>
-<rect x="879.2790516591429" y="20" width="0.7209483408572436" height="14" fill="#8b949e"/>
+<rect x="20" y="20" width="418.97581246433236" height="14" fill="#b07219"/>
+<rect x="438.97581246433236" y="20" width="405.07702191693716" height="14" fill="#A97BFF"/>
+<rect x="844.0528343812696" y="20" width="29.59527844907809" height="14" fill="#8b949e"/>
+<rect x="873.6481128303477" y="20" width="3.969505639343831" height="14" fill="#3572A5"/>
+<rect x="877.6176184696916" y="20" width="1.6627635489070849" height="14" fill="#e34c26"/>
+<rect x="879.2803820185986" y="20" width="0.7196179814015131" height="14" fill="#8b949e"/>
 <circle cx="30" cy="61" r="6" fill="#b07219"/>
-<text x="45" y="65" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Java 48.81%</text>
+<text x="45" y="65" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Java 48.72%</text>
 <circle cx="30" cy="89" r="6" fill="#A97BFF"/>
-<text x="45" y="93" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Kotlin 47.19%</text>
+<text x="45" y="93" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Kotlin 47.10%</text>
 <circle cx="30" cy="117" r="6" fill="#8b949e"/>
-<text x="45" y="121" fill="#c9d1d9" font-size="14" font-family="Segoe UI">GLSL 3.45%</text>
+<text x="45" y="121" fill="#c9d1d9" font-size="14" font-family="Segoe UI">GLSL 3.44%</text>
 <circle cx="30" cy="145" r="6" fill="#3572A5"/>
-<text x="45" y="149" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Python 0.28%</text>
+<text x="45" y="149" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Python 0.46%</text>
 <circle cx="30" cy="173" r="6" fill="#e34c26"/>
 <text x="45" y="177" fill="#c9d1d9" font-size="14" font-family="Segoe UI">HTML 0.19%</text>
 <circle cx="30" cy="201" r="6" fill="#8b949e"/>
