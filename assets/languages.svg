@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="288">
 <rect x="20" y="20" width="860" height="14" rx="7" ry="7" fill="#21262d"/>
-<rect x="20" y="20" width="418.84484491687414" height="14" fill="#b07219"/>
-<rect x="438.84484491687414" y="20" width="404.9503989890405" height="14" fill="#A97BFF"/>
-<rect x="843.7952439059146" y="20" width="29.586027268175734" height="14" fill="#8b949e"/>
-<rect x="873.3812711740903" y="20" width="3.968264812540135" height="14" fill="#3572A5"/>
-<rect x="877.3495359866305" y="20" width="1.6622437860531807" height="14" fill="#e34c26"/>
-<rect x="879.0117797726837" y="20" width="0.9882202273163224" height="14" fill="#8b949e"/>
+<rect x="20" y="20" width="418.51070490367334" height="14" fill="#b07219"/>
+<rect x="438.51070490367334" y="20" width="404.62734348697086" height="14" fill="#A97BFF"/>
+<rect x="843.1380483906441" y="20" width="29.562424553084632" height="14" fill="#8b949e"/>
+<rect x="872.7004729437288" y="20" width="3.965099067341314" height="14" fill="#3572A5"/>
+<rect x="876.66557201107" y="20" width="1.66091770512523" height="14" fill="#e34c26"/>
+<rect x="878.3264897161953" y="20" width="1.673510283804611" height="14" fill="#8b949e"/>
 <circle cx="30" cy="61" r="6" fill="#b07219"/>
-<text x="45" y="65" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Java 48.70%</text>
+<text x="45" y="65" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Java 48.66%</text>
 <circle cx="30" cy="89" r="6" fill="#A97BFF"/>
-<text x="45" y="93" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Kotlin 47.09%</text>
+<text x="45" y="93" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Kotlin 47.05%</text>
 <circle cx="30" cy="117" r="6" fill="#8b949e"/>
 <text x="45" y="121" fill="#c9d1d9" font-size="14" font-family="Segoe UI">GLSL 3.44%</text>
 <circle cx="30" cy="145" r="6" fill="#3572A5"/>
@@ -17,5 +17,5 @@
 <circle cx="30" cy="173" r="6" fill="#e34c26"/>
 <text x="45" y="177" fill="#c9d1d9" font-size="14" font-family="Segoe UI">HTML 0.19%</text>
 <circle cx="30" cy="201" r="6" fill="#8b949e"/>
-<text x="45" y="205" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Other 0.11%</text>
+<text x="45" y="205" fill="#c9d1d9" font-size="14" font-family="Segoe UI">Other 0.19%</text>
 </svg>
