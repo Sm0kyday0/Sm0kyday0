@@ -1,4 +1,4 @@
-# ​ Hi, I'm Smoky
+# ​ Hi, I'm Sumomo
 
 ## ​ About 
 無能dev
